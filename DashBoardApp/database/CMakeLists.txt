@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.5)
+project(database)
+add_library(database SHARED database.cpp database.h)
+find_package(Qt5 REQUIRED COMPONENTS Sql)
+find_package(Qt5 REQUIRED COMPONENTS Widgets)
+target_link_libraries(database PRIVATE Qt5::Sql)
+target_link_libraries(database PRIVATE Qt${QT_VERSION_MAJOR}::Core)
+target_link_libraries(database PRIVATE Qt${QT_VERSION_MAJOR}::Widgets)

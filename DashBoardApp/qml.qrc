@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CarDashBoard.qml</file>
+        <file>ThirdWindow.qml</file>
+        <file>UserDisplay.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>CloseLock.png</file>
+        <file>OpenLock.png</file>
+        <file>rpm.png</file>
+        <file>temp&amp;fuel.png</file>
+        <file>temprature.png</file>
+        <file>Left_Needle.png</file>
+        <file>Speedometer_Icon.png</file>
+        <file>Fuel_Icon-removebg-preview.png</file>
+        <file>RPM_Icon-removebg-preview.png</file>
+        <file>Speedometer_Icon-removebg-preview.png</file>
+        <file>Temprature_Icon-removebg-preview.png</file>
+        <file>Right_Needle.png</file>
+        <file>Niddle.png</file>
+        <file>big-left-arrow-icon.png</file>
+        <file>big-right-arrow-icon.png</file>
+        <file>Headlight.png</file>
+        <file>Battery-removebg-preview.png</file>
+        <file>Green_Headlight-removebg-preview.png</file>
+        <file>Parking-removebg-preview.png</file>
+        <file>Steereing_System-removebg-preview.png</file>
+    </qresource>
+    <qresource prefix="/ThirdWindow">
+        <file>big-left-arrow-icon.png</file>
+        <file>big-right-arrow-icon.png</file>
+        <file>Horn.png</file>
+        <file>Music.png</file>
+        <file>Bluetooth-removebg-preview.png</file>
+        <file>Navigation-removebg-preview.png</file>
+        <file>Phone-removebg-preview.png</file>
+        <file>Radio-removebg-preview.png</file>
+        <file>Setting-removebg-preview.png</file>
+        <file>Car-removebg-preview.png</file>
+        <file>mixkit-car-double-horn-719.wav</file>
+        <file>mixkit-car-double-horn-719 (online-audio-converter.com).mp3</file>
+        <file>Car.jpg</file>
+        <file>Blue_Left_Needle.png</file>
+        <file>Green_Left_Needle.png</file>
+        <file>Orange_Left_Needle.png</file>
+        <file>Pink_Left_Needle.png</file>
+        <file>Yellow_Left_Needle.png</file>
+    </qresource>
+</RCC>
